@@ -1,0 +1,23 @@
+{
+	"components": {
+	    "x-185256-counter-component": {
+			"uiBuilder": {
+				"associatedTypes": ["global.core"],
+				"label": "My Counter",
+				"icon": "chat-fill",
+				"description": "A simple example counter"
+			  },
+			  "properties": [
+				{
+				  "name": "backgroundColor",
+				  "label": "Background Color",
+				  "readOnly": false,       
+				  "required": false,
+				  "defaultValue": "purple"
+				}
+			  ],
+	        "innerComponents": []
+	    }
+	},
+	"scopeName": "x_185256_counter_0"
+}
