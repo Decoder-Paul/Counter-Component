@@ -3,8 +3,8 @@
 	    "x-185256-counter-component": {
 			"uiBuilder": {
 				"associatedTypes": ["global.core"],
-				"label": "My Counter",
-				"icon": "chat-fill",
+				"label": "Test Counter",
+				"icon": "lightbulb-outline",
 				"description": "A simple example counter"
 			  },
 			  "properties": [
