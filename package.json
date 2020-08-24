@@ -15,8 +15,6 @@
 	},
 	"module": "src/index.js",
 	"dependencies": {
-		"@servicenow/cli-archetype": "17.0.3",
-		"@servicenow/cli-component-archetype": "17.0.3",
 		"@servicenow/library-translate": "orlando",
 		"@servicenow/now-button": "^17.0.1",
 		"@servicenow/sass-kit": "orlando",
