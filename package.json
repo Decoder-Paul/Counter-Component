@@ -15,12 +15,14 @@
 	},
 	"module": "src/index.js",
 	"dependencies": {
-		"@servicenow/library-translate": "orlando",
-		"@servicenow/now-button": "^17.0.1",
-		"@servicenow/sass-kit": "orlando",
-		"@servicenow/sass-theme": "orlando",
 		"@servicenow/ui-core": "orlando",
-		"@servicenow/ui-renderer-snabbdom": "orlando"
+		"@servicenow/ui-renderer-snabbdom": "orlando",
+		"@servicenow/cli-archetype": "17.0.3",
+		"@servicenow/cli-component-archetype": "17.0.3",
+		"@servicenow/sass-theme": "orlando",
+		"@servicenow/sass-kit": "orlando",
+		"@servicenow/library-translate": "orlando",
+		"@servicenow/now-button": "^17.0.1"
 	},
 	"devDependencies": {
 		"@servicenow/cli-archetype-dev": "17.0.3",
