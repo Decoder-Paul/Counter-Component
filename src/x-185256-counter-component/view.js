@@ -3,7 +3,7 @@ export default (state, { updateState }) => {
 	const { tally } = state;
 	return (
 		<div>
-			<h2>Click Counter</h2>
+			<h2>Example Counter</h2>
 				<table>
 					<tr>
 						<td>
